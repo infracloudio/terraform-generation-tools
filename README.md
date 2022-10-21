@@ -1,4 +1,4 @@
-# Terraform-HCL-generation-tools-blog-sample-files
+# terraform-generation-tools
 
 This repository hosts sample Terraform HCL configuration generated with different tools from existing cloud resources. Primary purpose of creating the same is to host the configuration here for reference in blog.
 
